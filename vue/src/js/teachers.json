@@ -1,0 +1,29 @@
+{
+	"teachers": [
+		{
+			"id": 0,
+			"name": "Jhonnatan",
+			"twitter": "@jjhoncv"
+		},
+		{
+			"id": 1,
+			"name": "Cesar Casa",
+			"twitter": "@ccesar"
+		},
+		{
+			"id": 2,
+			"name": "Luis Cornejo",
+			"twitter": "@luiss"
+		},
+		{
+			"id": 3,
+			"name": "Carlos Seeva",
+			"twitter": "@carloss"
+		},
+		{
+			"id": 4,
+			"name": "Javier Esteban",
+			"twitter": "@javier"
+		}
+	]
+}
