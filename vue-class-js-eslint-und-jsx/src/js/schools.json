@@ -1,0 +1,34 @@
+{
+	"schools": [
+		{
+			"id": 0,
+            "name": "School mathematical Sciences",
+            "description": "Dolore culpa commodo tempor in anim ea. Nostrud deserunt voluptate ea dolor nisi occaecat dolore anim. Est non excepteur magna magna consectetur cupidatat et. Nostrud consectetur Lorem proident anim commodo laboris anim."
+		},
+		{
+			"id": 1,
+            "name": "School history Sciences",
+			"description": "Ipsum fugiat minim ipsum commodo officia pariatur amet officia aute sint commodo ipsum velit non. Ipsum ut ut culpa duis irure ullamco eiusmod Lorem sunt. Est irure esse anim tempor enim duis minim nostrud eiusmod non dolore non consectetur. Irure Lorem est consequat culpa. Sit Lorem minim est eu elit nostrud mollit eu sit consectetur proident deserunt dolor."			
+		},
+		{
+			"id": 2,
+            "name": "School computer engineering",
+			"description": "Sunt cillum exercitation do proident exercitation nisi cupidatat enim elit minim. Sunt et consequat adipisicing tempor labore sit laboris in. Cillum aute laboris mollit qui occaecat sit ut do ut sit dolor. Enim tempor nisi nisi sint nulla sint veniam quis eu et dolor ex cupidatat. Nisi consectetur id est ullamco exercitation tempor voluptate et cupidatat mollit ad aliqua. Sunt id mollit deserunt irure est proident laborum Lorem velit. Do ullamco dolore officia veniam adipisicing consectetur nisi quis duis."			
+		},
+		{
+			"id": 3,
+            "name": "School of systems engineering",
+			"description": "Ea quis deserunt ad aute ex est labore exercitation. Magna dolor magna voluptate aute aliquip ullamco ipsum ea aute est duis. Nisi proident nulla incididunt veniam. Aliquip deserunt ut minim sit sunt sunt dolore minim aliqua non. Veniam eiusmod non aliqua anim tempor pariatur. Anim sit proident pariatur esse incididunt proident."			
+		},
+		{
+			"id": 4,
+            "name": "School of industrial engineering",
+			"description": "Ut commodo dolore quis ipsum adipisicing eu esse incididunt consectetur elit amet. Elit quis est elit voluptate consectetur id non mollit Lorem veniam qui in ea ad. Magna elit mollit sint non enim dolore do anim labore qui."			
+		},
+		{
+			"id": 5,
+            "name": "School of electronic engineering",
+			"description": "Pariatur eu tempor eu dolore est fugiat occaecat nulla in nisi occaecat. Non enim enim minim duis non excepteur incididunt est commodo minim. Amet ex ad dolore non Lorem ad ex ea nisi. Reprehenderit excepteur dolor amet cillum labore et consectetur nostrud consequat ea et sint. Id labore aliquip aliquip excepteur Lorem do sunt nostrud nostrud sint id cupidatat consequat. Exercitation duis aliquip consequat deserunt aliqua aliqua eu esse."			
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"curses": [
+		{
+			"id": 0,
+			"name": "Aritmetica",
+			"schools": [0, 2]
+		},
+		{
+			"id": 1,
+			"name": "Math I",
+			"schools": [0, 2, 3, 4]
+		},
+		{
+			"id": 2,
+			"name": "Math II",
+			"schools": [0, 2, 3, 4]
+		},
+		{
+			"id": 3,
+			"name": "Fisica I",			
+			"schools": [0, 2]
+		},
+		{
+			"id": 4,
+			"name": "Fisica II",
+			"schools": [0, 2]
+		},
+		{
+			"id": 5,
+			"name": "History",			
+			"curse": [0, 3, 4]
+		}
+	]
+}
