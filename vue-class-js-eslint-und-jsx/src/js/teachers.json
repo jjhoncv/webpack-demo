@@ -1,0 +1,40 @@
+{
+	"teachers": [
+		{
+			"id": 0,
+			"name": "Jhonnatan",
+			"twitter": "@jjhoncv",
+			"curse": [1, 2]
+		},
+		{
+			"id": 1,
+			"name": "Cesar Casa",
+			"twitter": "@ccesar",
+			"curse": [1, 3]
+		},
+		{
+			"id": 2,
+			"name": "Luis Cornejo",
+			"twitter": "@luiss",
+			"curse": [2, 4, 1]
+		},
+		{
+			"id": 3,
+			"name": "Carlos Seeva",
+			"twitter": "@carloss",
+			"curse": [2, 4, 1]
+		},
+		{
+			"id": 4,
+			"name": "Javier Esteban",
+			"twitter": "@javier",
+			"curse": [0, 1]
+		},
+		{
+			"id": 5,
+			"name": "Victor Sandoval",
+			"twitter": "@victor",
+			"curse": [1, 3]
+		}
+	]
+}
